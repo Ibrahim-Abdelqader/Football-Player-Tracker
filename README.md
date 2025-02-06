@@ -1,9 +1,9 @@
 # Football Player Tracker
 
-<img src="https://github.com/user-attachments/assets/18e61c5d-1ed7-43fc-ac02-25d755d950ef" width="450"/>
-<img src="https://github.com/user-attachments/assets/2297465f-b3dc-4200-8d14-ee6101f804f0" width="450"/>
-<img src="https://github.com/user-attachments/assets/c8f78744-44f8-48b0-abc3-8b635d964b94" width="450"/>
-<img src="https://github.com/user-attachments/assets/f5066773-0275-45e7-b29c-32a8fdc2b041" width="450"/> 
+<img src="https://github.com/user-attachments/assets/18e61c5d-1ed7-43fc-ac02-25d755d950ef" width="430"/>
+<img src="https://github.com/user-attachments/assets/2297465f-b3dc-4200-8d14-ee6101f804f0" width="430"/>
+<img src="https://github.com/user-attachments/assets/c8f78744-44f8-48b0-abc3-8b635d964b94" width="430"/>
+<img src="https://github.com/user-attachments/assets/f5066773-0275-45e7-b29c-32a8fdc2b041" width="430"/> 
 
 ## Overview
 A machine learning-powered application for tracking football players in video using YOLO model
